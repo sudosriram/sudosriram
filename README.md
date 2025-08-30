@@ -7,6 +7,7 @@ Focused on learning and growing as a developer
 ## 🛠️ What I know so far:
 - Languages: C, C++, Python
 - Tools: Git, Pandas
+
 More coming as I learn and build
 
 ## 🚧 Projects:
